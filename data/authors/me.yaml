@@ -19,9 +19,14 @@ bio: |
   My interests cut across various networked systems, including social, ecological, transportation, and collaboration networks, as well as higher-order networks. 
   I also develop algorithms that optimize structured interactions at conferences and build interactive dashboards to translate data into actionable insights.
 
-affiliations:
-  - name: (Alumus) \n Santa Fe Institute \n African Institute for Mathematical Sciences (AIMS Ghana) \n Lagos State University
-    url: https://ai.meta.com/
+#affiliations:
+#  - name: (Alumus) \n Santa Fe Institute \n African Institute for Mathematical Sciences (AIMS Ghana) \n Lagos State University
+#    url: https://ai.meta.com/
+
+organizations:
+  - name: University A
+  - name: University B
+  - name: University C
 
 links:
   - icon: at-symbol
