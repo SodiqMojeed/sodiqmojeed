@@ -24,19 +24,19 @@ affiliations:
 #    url: https://ai.meta.com/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+  - icon: "✉️"
+    url: mailto:sodiq@aims.edu.gh
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  #- icon: brands/x
+  #  url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/SodiqMojeed
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/mojeedsodiqabiodun/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=BbfCQVYAAAAJ&scilu=&scisig=AFPfF8cAAAAAahYnXfyImBcMlPwi7WquHBpOj1U&gmla=AIqSsVvq_tBg5PBMdorgM9G7s_M5708wRiQmwdWP2TLbXsfRrsie058hsn0DtvmIzoCqCpR61ZY1Uh-CZYwztVkUDjJy-aeePsL4Qe0&sciund=17181199619481865148
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
