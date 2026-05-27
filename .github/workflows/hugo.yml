@@ -38,7 +38,7 @@ jobs:
         run: npm install -g tailwindcss
 
       - name: Verify Tailwind
-        run: tailwindcss -v
+        run: npx tailwindcss -v
 
       - name: Install Hugo modules
         run: hugo mod tidy
