@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
@@ -29,23 +29,11 @@ jobs:
           hugo-version: "0.161.1"
           extended: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install Tailwind CSS CLI
-        run: npm install -g tailwindcss@3
-
-      - name: Add npm global bin to PATH
-        run: echo "$(npm root -g)/.bin" >> $GITHUB_PATH
-
-      - name: Verify Tailwind
-        run: tailwindcss --help
-
+      # Hugo Blox requires modules
       - name: Install Hugo modules
         run: hugo mod tidy
 
+      # Build site (Tailwind is handled by Hugo Blox internally)
       - name: Build site
         run: hugo --minify
 
@@ -57,6 +45,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
