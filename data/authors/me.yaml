@@ -78,9 +78,9 @@ skills:
       - label: Python
         level: 5
       - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
+      - label: Cloud Computing
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -99,9 +99,9 @@ awards:
   - title: Best Project Award
     awarder: Santa Fe Institute
     date: "2024-07-02"
-    summary: I led a group of three peers on a project titled, Scialog--An Antidote to  Homophily Effects in Scientific Collaboration, 
-            # using data provided by the Research Corporation for Science Advancement, the oldest science philanthropy in the US, 
-            # to investigate the role scientific conferences can play in generating diverse, interdisciplinary teams. 
-            # The project was selected as one of three winners from 18 projects submitted to the Santa Fe Institute after its 2023 Complexity Global School.
-            # As a prize, my group was invited to visit the Santa Fe Institute in September 2024 to continue our research.  
+    summary: I led a group of three peers on a project titled Scialog--An Antidote to  Homophily Effects in Scientific Collaboration. 
+            Using data provided by the Research Corporation for Science Advancement, the oldest science philanthropy in the US, 
+            we examined the role scientific conferences can play in generating diverse, interdisciplinary teams. 
+            The project was selected as one of three winners from 18 projects submitted to the Santa Fe Institute after its 2023 Complexity Global School.
+            As a prize, my group was invited to visit the Santa Fe Institute in September 2024 to continue our research.  
     icon: hero/trophy
