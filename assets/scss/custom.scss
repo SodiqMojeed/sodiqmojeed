@@ -1,3 +1,11 @@
+body { margin: 0; }
+
+.page-body { padding-top: 0 !important; }
+
 .home-section:first-of-type {
-  padding-top: 0px !important;
+  margin-top: 0 !important;
+}
+
+main {
+  padding-top: 50px;
 }
