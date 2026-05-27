@@ -38,11 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am interested in the theory and applications of network science, particularly in modeling and analyzing social and temporal networks, hypergraphs, contagion processes, and the         dynamics of networked systems. I also develop genetic algorithms that optimize structured interactions at conferences. A web application powered by my algorithm is available             [here](https://groupalgorithm.streamlit.app/). Previously, I analyzed food-web, transportation, social, and collaboration networks. I also have experience in modeling and                visualizing multiplex and higher-order networks. In addition, I have a publication on a more theoretical work in graph theory, where we present applications of Matula numbers in         chemistry and analytical combinatorics; it’s available for download [here](https://www.intechopen.com/online-first/1193404).
     design:
       columns: '1'
   - block: collection
