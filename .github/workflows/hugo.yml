@@ -35,7 +35,7 @@ jobs:
           node-version: "20"
 
       - name: Install Tailwind CSS CLI
-        run: npm install -g tailwindcss @tailwindcss/cli
+        run: npm install -g tailwindcss@3
 
       - name: Add npm global bin to PATH
         run: echo "$(npm root -g)/.bin" >> $GITHUB_PATH
