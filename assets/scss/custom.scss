@@ -1,11 +1,16 @@
-body { margin: 0; }
-
-.page-body { padding-top: 0 !important; }
-
-.home-section:first-of-type {
-  margin-top: 0 !important;
+/* Normalize homepage vertical spacing */
+.home-section {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
 }
 
-main {
-  padding-top: 50px;
+/* Reduce first section gap under navbar */
+.home-section:first-of-type {
+  padding-top: 20px !important;
+}
+
+/* Tighten section headings spacing */
+.section-heading h1,
+.section-heading h2 {
+  margin-bottom: 10px !important;
 }
