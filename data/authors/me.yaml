@@ -8,9 +8,9 @@ name:
   # alternate: ''  # Example: 王伟
   # pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+#postnominals:
+#  - PhD
+#  - MIEEE
 status:
   icon: "🟢"
 role: Research Scientist
