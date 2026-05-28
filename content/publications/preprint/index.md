@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Featured Abstract"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2026-05-28T23:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-05-28T23:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -75,9 +75,9 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+This work emerged as one of the best projects that resulted from the Santa Fe Institute's 2023 Complexity Global School. It was accepted as a featured poster at the National Institutes of Health (NIH) [Future of Scientific Conferences workshop](https://www.labroots.com/ms/virtual-event/future-scientific-conferencing) in June 2024, and it’s also featured in a Princeton University [article](https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize).
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+#> [!NOTE]
+#> Create your slides in Markdown - click the *Slides* button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-#markdown-latex/).
