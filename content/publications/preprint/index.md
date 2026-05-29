@@ -32,8 +32,8 @@ hugoblox:
   ids:
     arxiv: 1512.04133v1
 
-#links:
-#- type: Working paper
+links:
+- type: Working paper
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
