@@ -17,7 +17,7 @@ publishDate: "2025-04-07T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Number Theory - Classical Foundations and Modern Perspectives. IntechOpen."
+publication: "In Number Theory - Classical Foundations and Modern Perspectives. IntechOpen. https://doi.org/10.5772/intechopen.1006120"
 publication_short: ""
 
 abstract: This chapter focuses on a bijective function between the set of rooted trees and the set of positive integers. It emphasizes some applications of this bijective map in chemistry and combinatorics.
