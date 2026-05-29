@@ -78,10 +78,10 @@ skills:
     items:
       - label: Python
         level: 5
+      - label: Data Visualization
+        level: 4
       - label: Machine Learning
         level: 4
-      - label: Cloud Computing
-        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -104,4 +104,11 @@ awards:
             the oldest science philanthropy in the US, to examine the role scientific conferences can play in generating diverse, interdisciplinary teams. 
             The project was selected as one of three winners from 18 projects submitted to the Santa Fe Institute after its 2023 Complexity Global School.
             As a prize, my group was invited to visit the Santa Fe Institute in September 2024 to continue our research.  
+    icon: hero/trophy
+  - title: Best Graduating Student in Mathematics Education (2029/2020)
+    awarder: Lagos State University
+    date: "2022-08-22"
+    summary: During my undergraduate studies, I volunteered as a tutor, beginning with small groups of 2-3 students. 
+            My tutoring classes, which included over 25 elementary and advanced courses, attracted more students and expanded to lecture halls, where I taught groups of over 500 undergraduates. 
+            In recognition of my excellent academic performance, I received the Jagal Foundation Award for Best Graduating Student in Mathematics Education (2019-2020 section).
     icon: hero/trophy
