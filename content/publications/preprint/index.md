@@ -1,7 +1,18 @@
 ---
 title: "Scialog: An Antidote to Homophily Effects in Scientific Collaboration"
 authors:
-- me
+  - me
+  - Phanie Negho
+  - Patience Akatuhwera
+  - Emma R. Zajdela
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Advisor'
+
 date: "2024-04-06T23:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
