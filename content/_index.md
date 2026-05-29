@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+#title: ''
+#summary: ''
 date: 2026-05-29
 type: landing
 
@@ -10,15 +10,15 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      #text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        #about: ''
+        #education: ''
+        #interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -36,8 +36,8 @@ sections:
   - block: markdown
     class: research
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: '📚 My Research Interests'
+      #subtitle: ''
       text: |-
         I am interested in the theory and applications of network science, particularly in modeling and analyzing social and temporal networks, hypergraphs, contagion processes, and the         dynamics of networked systems. I also develop genetic algorithms that optimize structured interactions at conferences. A web application powered by my algorithm is available             [here](https://groupalgorithm.streamlit.app/). Previously, I analyzed food-web, transportation, social, and collaboration networks. I also have experience in modeling and                visualizing multiplex and higher-order networks. In addition, I have a publication on a more theoretical work in graph theory, where we present applications of Matula numbers in         chemistry and analytical combinatorics; it’s available for download [here](https://www.intechopen.com/online-first/1193404).
     design:
@@ -76,17 +76,17 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      #subtitle: ''
+      #text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
       count: 10
       # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        #author: ''
+        #category: ''
+        #tag: ''
         exclude_featured: false
         exclude_future: false
         exclude_past: false
