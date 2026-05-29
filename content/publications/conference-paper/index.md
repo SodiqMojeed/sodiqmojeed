@@ -43,11 +43,6 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-#hugoblox:
-#  ids:
-#    doi: 10.5555/123456
-
 # Custom links
 #links:
   #- type: pdf
@@ -83,5 +78,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
