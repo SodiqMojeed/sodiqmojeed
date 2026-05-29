@@ -56,21 +56,22 @@ education:
     end: Sep. 2021
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Data Analyst
+    org: Santa Fe Institute
+    start: 2025-07-13
+    end: 2025-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Created surveys and analyzed data to evaluate Complexity Global School programs. 
+  - role: Research Assistant
+    org: Santa Fe Institute
+    start: 2024-04-01
+    end: 2025-07-12
+    summary: |
+      Developed a genetic algorithm that optimized structured interactions at conferences and in online science communities.
     button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      text: Web Application
+      url: https://groupalgorithm.streamlit.app/
+      #icon: hero/arrow-down-tray
 
 skills:
   - name: Technical Skills
