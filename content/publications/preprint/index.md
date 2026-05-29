@@ -24,8 +24,8 @@ date: "2024-04-06T23:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 abstract: Scialog conferences are scientific meetings organized by the Research Corporation for Science Advancement to catalyze innovative thinking and the development of multidisciplinary research in the twenty-first century. Each Scialog conference convenes about 50 promising early-career scientists, called fellows, from diverse academic disciplines and institutions to initiate novel connections among unfamiliar researchers. The conference organizers engineered these new connections by assigning unfamiliar individuals to the same discussion groups, and, at the end of each year’s conference, fellows self-assemble into teams of two to four and submit a proposal to conduct research together. They also pitch their proposals for a competitive grant. Since fellows are free to choose whom they collaborate with regardless of the prescribed sessions they attended, we investigated whether homophily effects influenced scientific team formation. In this research, we analyzed three longitudinal datasets containing demographic information of fellows who attended Scialog conferences from 2015 to 2017, their level of familiarity with one another before each conference, the discussion groups they were assigned to, and with whom they collaborated. We determined degree and attribute assortativity coefficients for each year's collaborative networks to measure homophily effects using the number of collaborators and each fellow's demographic information. Our results show that all networks exhibit assortative mixing by the number of collaborators, implying that most fellows collaborated with those with similar numbers of collaborators. In addition, we found that only the 2015 network shows a nearly neutral assortative mixing by gender; the other two networks are disassortative. We also discovered that all the networks are disassortative with respect to both departments and fellows’ research methodologies. This shows that fellows did not choose their collaborators based on how similar they were in academic discipline and research methods. Our findings suggest that using the Scialog conference design can help prevent homophilic selection in scientific conferences when organizers aim to facilitate multidisciplinary research collaboration among participants.
 
@@ -39,12 +39,8 @@ tags:
 
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
-links:
-- type: Working paper
+#links:
+#- type: Working paper
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
