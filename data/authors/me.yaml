@@ -91,10 +91,10 @@ skills:
       - label: Adaptibility and Resilience
         level: 4
 
-languages:
-  - name: English
-    level: 5
-    label: Fluent
+#languages:
+#  - name: English
+#    level: 5
+#    label: Fluent
 
 awards:
   - title: Best Project Award
