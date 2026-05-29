@@ -1,15 +1,15 @@
 ---
-title: "An example journal article"
+title: "Matula Numbers and their Applications"
 authors:
 - me
-- Robert Ford
+- Audace A.V. Dossou-Olory
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-06-25T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-04-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,44 +17,44 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "In Number Theory - Classical Foundations and Modern Perspectives. IntechOpen."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This chapter focuses on a bijective function between the set of rooted trees and the set of positive integers. It emphasizes some applications of this bijective map in chemistry and combinatorics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+#  ids:
+#    arxiv: 1512.04133v1
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://www.intechopen.com/chapters/1193404
+  #- type: code
+  #  url: ttps://github.com/HugoBlox/kit
+  #- type: dataset
+  #  url: ""
+  #- type: poster
+  #  url: ""
+  - type: Book chapter
+    url: https://www.intechopen.com/chapters/1193404
+  #- type: slides
+  #  url: https://www.slideshare.net/
+  #- type: source
+  #  url: ""
+  #- type: video
+  #  url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Rooted trees with Matula numbers 125 and 225.'
   focal_point: ""
   preview_only: false
 
@@ -72,11 +72,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
