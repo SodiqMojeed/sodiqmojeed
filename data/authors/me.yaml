@@ -69,7 +69,7 @@ experience:
     summary: |
       Developed a genetic algorithm that optimized structured interactions at conferences and in online science communities.
     button:
-      text: Web Application
+      text: Explore Web Application
       url: https://groupalgorithm.streamlit.app/
       #icon: hero/arrow-down-tray
 
