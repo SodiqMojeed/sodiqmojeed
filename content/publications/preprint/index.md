@@ -42,7 +42,7 @@ links:
 #  url: https://www.slideshare.net/
 #- type: dataset
 #  url: "#"
-- type: poster
+- type: Working Paper
   url: "#"
 #- type: source
 #  url: "#"
