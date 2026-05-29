@@ -56,7 +56,7 @@ sections:
   - block: collection
     content:
       title: Publication and Working Papers
-      text: ''
+      #text: ''
       filters:
         folders:
           - publications
