@@ -92,9 +92,9 @@ skills:
         level: 4
 
 #languages:
-#  - name: English
-#    level: 5
-#    label: Fluent
+  - name: English
+    level: 5
+    label: Fluent
 
 awards:
   - title: Best Project Award
