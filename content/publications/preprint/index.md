@@ -41,6 +41,8 @@ featured: true
 
 links:
 - type: Working paper
+  label: Featured Article
+  url: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
@@ -55,9 +57,9 @@ links:
 #  url: "#"
 #- type: video
 #  url: https://youtube.com
-- type: custom
-  label: Featured Article
-  url: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
+#- type: custom
+#  label: Featured Article
+#  url: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
