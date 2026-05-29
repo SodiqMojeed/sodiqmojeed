@@ -32,8 +32,8 @@ hugoblox:
   ids:
     arxiv: 1512.04133v1
 
-links:
-- type: Working paper
+#links:
+#- type: Working paper
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
@@ -42,8 +42,8 @@ links:
 #  url: https://www.slideshare.net/
 #- type: dataset
 #  url: "#"
-- type: Working Paper
-  url: "#"
+#- type: Working Paper
+#  url: "#"
 #- type: source
 #  url: "#"
 #- type: video
