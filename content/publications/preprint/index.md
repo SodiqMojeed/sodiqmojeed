@@ -75,10 +75,4 @@ projects:
 slides: ""
 ---
 
-{: .small-text}
 This work emerged as one of the best projects that resulted from the Santa Fe Institute's 2023 Complexity Global School. It was accepted as a featured poster at the National Institutes of Health (NIH) [Future of Scientific Conferences workshop](https://www.labroots.com/ms/virtual-event/future-scientific-conferencing) in June 2024, and it’s also featured in a Princeton University [article](https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize).
-
-##> [!NOTE]
-##> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-##Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-##markdown-latex/).
