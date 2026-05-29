@@ -18,7 +18,7 @@ publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Number Theory - Classical Foundations and Modern Perspectives. IntechOpen. https://doi.org/10.5772/intechopen.1006120"
-publication_short: ""
+#publication_short: ""
 
 abstract: This chapter focuses on a bijective function between the set of rooted trees and the set of positive integers. It emphasizes some applications of this bijective map in chemistry and combinatorics.
 
@@ -31,10 +31,6 @@ tags:
 - Analytical Combinatorics
 featured: false
 
-#hugoblox:
-#  ids:
-#    arxiv: 1512.04133v1
-
 links:
   - type: pdf
     url: https://www.intechopen.com/chapters/1193404#
@@ -44,8 +40,8 @@ links:
   #  url: ""
   #- type: poster
   #  url: ""
-  - type: Book chapter
-    url: https://www.intechopen.com/chapters/1193404
+  #- type: Book chapter
+  #  url: https://www.intechopen.com/chapters/1193404
   #- type: slides
   #  url: https://www.slideshare.net/
   #- type: source
@@ -72,5 +68,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
