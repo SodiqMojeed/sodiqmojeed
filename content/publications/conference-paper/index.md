@@ -5,7 +5,7 @@ title: 'Genetic Algorithm for Optimizing Group Assignments at Conferences'
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Sodiq A. Mojeed
+  - me
   - Emma R. Zajdela
 
 # Author notes (optional)
