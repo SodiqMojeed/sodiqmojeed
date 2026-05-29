@@ -5,7 +5,7 @@ authors:
 - Audace A.V. Dossou-Olory
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
+- "Advisor"
 date: "2024-06-25T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,9 @@ abstract: This chapter focuses on a bijective function between the set of rooted
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Matula Numbers
+- Rooted Trees
+- Analytical Combinatorics
 featured: false
 
 #hugoblox:
