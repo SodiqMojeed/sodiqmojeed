@@ -39,8 +39,8 @@ tags:
 
 featured: true
 
-#links:
-#- type: Working paper
+links:
+- type: Working paper
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
