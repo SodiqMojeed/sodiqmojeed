@@ -44,12 +44,12 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+#hugoblox:
+#  ids:
+#    doi: 10.5555/123456
 
 # Custom links
-links:
+#links:
   #- type: pdf
   #  url: ""
   #- type: code
@@ -75,8 +75,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/projects/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
