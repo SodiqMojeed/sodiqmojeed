@@ -24,8 +24,8 @@ publishDate: '2026-05-29T00:00:00Z'
 publication_types: ['manuscript']
 
 # Publication name and optional abbreviated publication name.
-publication: In *HugoBlox Kit Conference*
-publication_short: In *ICW*
+#publication: In *HugoBlox Kit Conference*
+#publication_short: In *ICW*
 
 abstract: Past research has emphasized the importance of team diversity for innovation. However, little is known about how to efficiently catalyze the assembling of novel interdisciplinary groups at conferences with multiple breakout sessions. This research aims to design conference interactions that maximize group diversity and minimize repeated meetings among attendees. We developed a genetic algorithm to assign conference participants to culturally and intellectually diverse groups, with fewer repeated meetings between pairs across multiple sessions. The algorithm begins by generating a random population. It then performs iterative pairwise swaps across all pairs of groups to maximize a global objective function that measures the population diversity. A pairwise swap between two groups improves their compositions if it does not decrease the sum of the groups’ diversity indexes; it does not increase the number of individuals with a pre-defined level of prior knowledge of other group members in each of the groups; and it does not increase the number of repeated meetings among group members. Simulation results show that the algorithm outperforms random group assignments in reducing the frequency of repeated meetings among conference participants, minimizing group prior knowledge, and maximizing group diversity with respect to participants’ gender, discipline, and country of residence. This algorithmic approach provides a unique mechanism for optimizing group assignments at conferences and summer schools to foster novel, interdisciplinary, and diverse collaborations. We validate the algorithm with interaction data from >120 students at two Santa Fe Institute Complexity Global Schools. We recommend using the algorithm at conferences and summer school to catalyze collaboration and innovation.
 
