@@ -33,7 +33,7 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-#- type: preprint
+- type: Working paper
 #  provider: arxiv
 #  id: 1512.04133v1
 #- type: code
