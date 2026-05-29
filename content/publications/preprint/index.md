@@ -55,7 +55,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: '2016 Scialog Conference Collaboration Network. Nodes are coloured by gender, with the blue and orange nodes representing male and female fellows, respectively.'
   focal_point: ""
   preview_only: false
 
