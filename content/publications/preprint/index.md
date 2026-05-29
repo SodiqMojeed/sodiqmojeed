@@ -2,7 +2,7 @@
 title: "Scialog: An Antidote to Homophily Effects in Scientific Collaboration"
 authors:
 - me
-date: "2026-05-28T23:00:00Z"
+date: "2024-02-01T23:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-28T23:00:00Z"
