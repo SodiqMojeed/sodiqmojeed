@@ -35,7 +35,7 @@ featured: false
 
 links:
   - type: pdf
-    url: https://www.intechopen.com/chapters/1193404
+    url: https://www.intechopen.com/chapters/1193404#
   #- type: code
   #  url: ttps://github.com/HugoBlox/kit
   #- type: dataset
