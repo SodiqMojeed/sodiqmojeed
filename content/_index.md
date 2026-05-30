@@ -8,7 +8,6 @@ type: landing
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       #text: ''
       # Show a call-to-action button under your biography? (optional)
@@ -20,6 +19,10 @@ sections:
         #education: ''
         #interests: ''
     design:
+      # Add this spacing section to reduce the top padding
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
+    
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
