@@ -62,7 +62,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-      css_class: "-mt-24 -mb-14"
+      css_class: "-mt-5"
   - block: collection
     content:
       title: Publication and Working Papers
@@ -73,7 +73,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      css_class: "-mt-24 -mb-14"
+      css_class: "-mt-5"
   - block: collection
     id: talks
     content:
@@ -83,7 +83,7 @@ sections:
           - events
     design:
       view: card
-      css_class: "-mt-24 -mb-14"
+      css_class: "-mt-5"
   - block: collection
     id: news
     content:
