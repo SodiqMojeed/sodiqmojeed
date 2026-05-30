@@ -18,10 +18,15 @@ sections:
         #about: ''
         #education: ''
         #interests: ''
+  
+    #design:
+    #  # Add this spacing section to reduce the top padding
+    #  spacing:
+    #    padding: ["2px", "0", "2px", "0"]
+
     design:
-      # Add this spacing section to reduce the top padding
-      spacing:
-        padding: ["2px", "0", "2px", "0"]
+      # Add it right here!
+      css_class: "-mt-12"
     
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
