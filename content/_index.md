@@ -26,8 +26,7 @@ sections:
 
     design:
       # Add it right here!
-      css_class: "-mt-24"
-      css_class: "-mb-24"
+      css_class: "-mt-24 -mb-24"
     
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
