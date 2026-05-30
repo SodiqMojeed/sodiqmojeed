@@ -21,7 +21,7 @@ sections:
     design:
       # Add this spacing section to reduce the top padding
       spacing:
-        padding: ["5px", "0", "5px", "0"]
+        padding: ["2px", "0", "2px", "0"]
     
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
