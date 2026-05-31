@@ -77,12 +77,12 @@ sections:
       # 1. Adjust internal padding: [top, right, bottom, left]
       # Increase the first number to add space above the title
       spacing:
-        padding: ["2.5rem", "0", "0", "0"]
+        padding: ["0.05rem", "0", "0", "0"]
       
       # 2. Use Tailwind via css_class
       # -mt-5: Keeps the section position pulled up if needed
       # [&_.section-heading]:mb-2: Minimizes margin below the title
-      css_class: "-mt-2 [&_.section-heading]:mb-6"
+      css_class: "-mt-0.5 [&_.section-heading]:mb-24"
 
 
   - block: collection
