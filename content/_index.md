@@ -74,14 +74,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      # 'spacing' controls the block's internal padding [top, right, bottom, left]
-      # Increase '5rem' to add more space ABOVE the title
-      spacing:
-        padding: ["0.05rem", "0", "0.1rem", "0"]
-      # This class targets specifically the gap below the title 
-      # using a standard Tailwind margin-bottom utility
-      css_class: "flush-title" 
-
+      columns: 1
+      css_class: "-mt-5"
 
   - block: collection
     id: talks
