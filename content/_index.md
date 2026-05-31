@@ -74,11 +74,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      # Reduce the default internal padding of the block
+      # 1. Adjust internal padding: [top, right, bottom, left]
+      # Increase the first number to add space above the title
       spacing:
-        padding: [0, 0, 0, 0]
-      # Pull the entire block up and remove the title's default bottom margin
-      css_class: "-mt-10 [&_.section-heading]:mb-2"
+        padding: ["5rem", "0", "0", "0"]
+      
+      # 2. Use Tailwind via css_class
+      # -mt-5: Keeps the section position pulled up if needed
+      # [&_.section-heading]:mb-2: Minimizes margin below the title
+      css_class: "-mt-5 [&_.section-heading]:mb-2"
+
 
   - block: collection
     id: talks
