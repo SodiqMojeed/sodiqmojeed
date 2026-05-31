@@ -1,3 +1,10 @@
+---
+# Leave the homepage title empty to use the site title
+#title: ''
+#summary: ''
+date: 2026-05-29
+type: landing
+
 <style>
   /* Forcefully reduce the gap below the title for the publications block */
   .component-collection .section-heading {
@@ -9,13 +16,6 @@
     padding-top: 5rem !important;
   }
 </style>
-
----
-# Leave the homepage title empty to use the site title
-#title: ''
-#summary: ''
-date: 2026-05-29
-type: landing
 
 sections:
   - block: resume-biography-3
