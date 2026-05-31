@@ -63,17 +63,23 @@ sections:
       view: article-grid
       columns: 2
       css_class: "-mt-5"
+
+
   - block: collection
     content:
       title: Publication and Working Papers
-      #text: ''
       filters:
         folders:
           - publications
         exclude_featured: false
     design:
       view: citation
-      css_class: "-mt-5"
+      # Reduce the default internal padding of the block
+      spacing:
+        padding: [0, 0, 0, 0]
+      # Pull the entire block up and remove the title's default bottom margin
+      css_class: "-mt-10 [&_.section-heading]:mb-2"
+
   - block: collection
     id: talks
     content:
