@@ -65,7 +65,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '2016 Scialog Conference Collaboration Network. Nodes are coloured by gender, with the blue and orange nodes representing male and female fellows, respectively.'
-  focal_point: ""
+  #focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -81,7 +81,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
 
 This work emerged as one of the best projects that resulted from the Santa Fe Institute's 2023 Complexity Global School. It was accepted as a featured poster at the National Institutes of Health (NIH) [Future of Scientific Conferences workshop](https://www.labroots.com/ms/virtual-event/future-scientific-conferencing) in June 2024, and it’s also featured in a Princeton University [article](https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize).
