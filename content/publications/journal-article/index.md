@@ -53,7 +53,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Rooted trees with Matula numbers 125 and 225.'
-  focal_point: ""
+  #focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -61,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/projects/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
