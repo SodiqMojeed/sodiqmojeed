@@ -5,18 +5,6 @@
 date: 2026-05-29
 type: landing
 
-<style>
-  /* Forcefully reduce the gap below the title for the publications block */
-  .component-collection .section-heading {
-    margin-bottom: 0.5rem !important;
-    padding-bottom: 0 !important;
-  }
-  /* Forcefully adjust top padding of the block */
-  .component-collection {
-    padding-top: 5rem !important;
-  }
-</style>
-
 sections:
   - block: resume-biography-3
     content:
@@ -88,7 +76,9 @@ sections:
       view: citation
       # Use simple padding/margin utilities if arbitrary selectors fail
       css_class: "pt-0 pb-0" 
-      ## 
+      # This class targets specifically the gap below the title 
+      # using a standard Tailwind margin-bottom utility
+      css_class: "flush-title" 
 
 
   - block: collection
