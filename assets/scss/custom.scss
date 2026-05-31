@@ -29,14 +29,3 @@ main {
   font-size: 11.5pt;
   line-height: 1.6;
 }
-
-/* Minimize space between block title and the content list */
-.section-heading {
-  margin-bottom: 1rem !important; /* Default is usually 3rem or 4rem */
-}
-
-/* If you only want to target the publications section specifically */
-#publications .section-heading, 
-#featured .section-heading {
-  margin-bottom: 0.5rem !important;
-}
