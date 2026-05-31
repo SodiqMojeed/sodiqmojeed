@@ -78,6 +78,7 @@ sections:
       # Increase the first number to add space above the title
       spacing:
         padding: ["0.05rem", "0", "0", "0"]
+      css_class: "pt-0" # Removes extra top padding if standard spacing is too much
       
       # 2. Use Tailwind via css_class
       # -mt-5: Keeps the section position pulled up if needed
