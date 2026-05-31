@@ -82,7 +82,7 @@ sections:
       # 2. Use Tailwind via css_class
       # -mt-5: Keeps the section position pulled up if needed
       # [&_.section-heading]:mb-2: Minimizes margin below the title
-      css_class: "-mt-5 [&_.section-heading]:mb-6"
+      css_class: "-mt-2 [&_.section-heading]:mb-6"
 
 
   - block: collection
