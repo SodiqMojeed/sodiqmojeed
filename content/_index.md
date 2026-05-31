@@ -74,16 +74,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      # 1. Adjust internal padding: [top, right, bottom, left]
-      # Increase the first number to add space above the title
-      spacing:
-        padding: ["0.05rem", "0", "0", "0"]
-      css_class: "pt-0" # Removes extra top padding if standard spacing is too much
-      
-      # 2. Use Tailwind via css_class
-      # -mt-5: Keeps the section position pulled up if needed
-      # [&_.section-heading]:mb-2: Minimizes margin below the title
-      css_class: "-mt-0.5 [&_.section-heading]:mb-48"
+      # Use simple padding/margin utilities if arbitrary selectors fail
+      css_class: "pt-20 pb-0" 
+      ## 
 
 
   - block: collection
