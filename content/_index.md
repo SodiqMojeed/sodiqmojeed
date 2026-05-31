@@ -74,8 +74,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      # Use simple padding/margin utilities if arbitrary selectors fail
-      css_class: "pt-0 pb-0" 
+      # 'spacing' controls the block's internal padding [top, right, bottom, left]
+      # Increase '5rem' to add more space ABOVE the title
+      spacing:
+        padding: ["0.05rem", "0", "0.1rem", "0"]
       # This class targets specifically the gap below the title 
       # using a standard Tailwind margin-bottom utility
       css_class: "flush-title" 
