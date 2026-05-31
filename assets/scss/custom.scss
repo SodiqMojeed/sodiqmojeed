@@ -30,7 +30,10 @@ main {
   line-height: 1.6;
 }
 
-/* When the 'flush-title' class is used on a block, minimize the heading gap */
-.flush-title .section-heading {
-  margin-bottom: 0.5rem !important;
+.publications-section .section-heading {
+  margin-bottom: 0 !important;
+}
+
+.publications-section .article-list {
+  margin-top: 0 !important;
 }
