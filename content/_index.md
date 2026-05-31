@@ -66,6 +66,7 @@ sections:
 
 
   - block: collection
+    class: publications-section
     content:
       title: Publication and Working Papers
       filters:
