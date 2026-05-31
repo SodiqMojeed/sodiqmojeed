@@ -62,7 +62,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'A collaboration network that emerged after a series of algorithmic group interactions. Nodes represent the countries of residence of collaborators. Edge weight illustrates the number of unique international collaborations among pairs.'
-  focal_point: ''
+  #focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
