@@ -1,3 +1,15 @@
+<style>
+  /* Forcefully reduce the gap below the title for the publications block */
+  .component-collection .section-heading {
+    margin-bottom: 0.5rem !important;
+    padding-bottom: 0 !important;
+  }
+  /* Forcefully adjust top padding of the block */
+  .component-collection {
+    padding-top: 5rem !important;
+  }
+</style>
+
 ---
 # Leave the homepage title empty to use the site title
 #title: ''
@@ -75,7 +87,7 @@ sections:
     design:
       view: citation
       # Use simple padding/margin utilities if arbitrary selectors fail
-      css_class: "pt-20 pb-0" 
+      css_class: "pt-0 pb-0" 
       ## 
 
 
