@@ -1,7 +1,6 @@
 ---
 title: 'MOOCs'
 date: 2024-05-19
----
 
 # Page sections
 sections:
@@ -21,3 +20,5 @@ I am an avid learner. Here are some of the online courses I have worked on over 
 | 02 | **Python for Data Science** | Pandas, Numpy, Data Wrangling | [📜 View](https://example.com) |
 | 03 | **Advanced Modeling** | Complex Systems, Simulation, Dynamics | [🏅 View](https://example.com) |
 </div>
+
+---
