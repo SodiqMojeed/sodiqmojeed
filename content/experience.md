@@ -19,14 +19,29 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
+    id: awards-gallery
     content:
-      title: Selected Awards
+      title: Honors & Awards
+      subtitle: 'Recognition for academic and research excellence'
+      # Filters the content to only show items from your new awards folder
       filters:
         folders:
           - awards
+        tag: ''
+        category: ''
+        publication_type: ''
+        exclude_featured: false
+      # Sort by date (newest awards first)
+      sort_by: 'Date'
+      sort_ascending: false
+      count: 10
     design:
-      view: card  # This makes the images visible as thumbnails
-      columns: 2
+      # 'article-grid' or 'card' shows the featured images you added
+      view: article-grid
+      columns: '2'
+      spacing:
+        padding: [0, 0, 0, 0]
+
 
   - block: resume-skills
     content:
