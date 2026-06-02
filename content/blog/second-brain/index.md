@@ -14,4 +14,4 @@ image:
 
 I am glad to share that I developed an interactive web application that visualizes undirected networks, displays their properties, and degree distributions, using some datasets compiled and made available by [Professor Mark Newman](https://public.websites.umich.edu/~mejn/) on this [website](https://public.websites.umich.edu/~mejn/netdata/).
 
-The Dashboard is available at https://collatics.onrender.com/. Kindly exercise a little patience while the applet launches.
+The Dashboard is available at [https://sodiqmojeed.github.io/netvisual-app/](https://sodiqmojeed.github.io/netvisual-app/).
