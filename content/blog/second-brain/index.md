@@ -6,7 +6,9 @@ authors:
   - me
 tags:
   - Network Science
+  - Network Properties
   - Network Visualization
+  - Power Law Distribution
   - Interactive Applet
 image:
   caption: 'A network illustrating friendships between the 34 members of a Karate club at a US university.'
