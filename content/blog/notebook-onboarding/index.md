@@ -12,7 +12,7 @@ tags:
   - Data Wrangling
   - Analytics
   - WorldQuant University
-cover:
+#cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   #icon:
   #  name: "📔"
