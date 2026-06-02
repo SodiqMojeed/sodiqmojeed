@@ -14,7 +14,7 @@ links:
 - icon: link
   icon_pack: fas
   name: Featured News
-  url: external_link: https://educationroadmap.com.ng/2022/08/23/jagal-foundation-presents-scholarships-to-lasu-students-alumni/
+  url: https://educationroadmap.com.ng/2022/08/23/jagal-foundation-presents-scholarships-to-lasu-students-alumni/
 image:
   caption: 'JAGAL Foundation Scholarship Award'
   focal_point: 'Center'
