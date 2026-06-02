@@ -29,7 +29,7 @@ tags:
 - Matula Numbers
 - Rooted Trees
 - Analytical Combinatorics
-featured: false
+featured: true
 
 links:
   - type: pdf
