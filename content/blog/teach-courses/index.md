@@ -2,6 +2,7 @@
 title: 👩🏼‍🏫 Teach academic courses
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
+draft: true # Hide the page temporarily
 math: true
 authors:
   - me
