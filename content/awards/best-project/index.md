@@ -26,7 +26,6 @@ I led a group of three peers on a metascience project using data provided by the
 
 ### Key Achievements
 * Examined the role of scientific conferences in generating diverse teams.
-* Developed a genetic algorithm for team formation.
 * Selected as one of three winners from 18 submissions.
 
 As a prize, my group was invited to visit the **Santa Fe Institute** in September 2024 to continue our research.
