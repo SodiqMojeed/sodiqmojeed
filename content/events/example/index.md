@@ -1,5 +1,5 @@
 ---
-title: Increasing the Benefits of Formal Interactions at Scientific Conferences.
+title: 'Increasing the Benefits of Formal Interactions at Scientific Conferences.'
 date: '2024-02-17T00:00:00Z'
 
 event_name: Critical Transitions in Socio-ecological Systems Workshop
@@ -32,6 +32,7 @@ image:
 
 # projects: []
 ---
+I attended the Critical Transitions in Socio-ecological Systems Workshop at Princeton University in February 2025, where I gave a flash talk titled "Increasing the Benefits of Formal Interactions at Scientific Conferences".
 
 Abstract: This research aims to optimize group assignments to increase the benefits of formal interaction at scientific 
 conferences and encourage diverse, interdisciplinary team formation. We developed a genetic algorithm that 
