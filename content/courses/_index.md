@@ -9,9 +9,8 @@ sections:
     content:
       title: Courses
       filters:
-        tag: Course
-        #kinds:
-        #  - section
+        folders:
+          - courses
         exclude_featured: false
     design:
       view: article-grid
