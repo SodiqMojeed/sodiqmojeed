@@ -37,3 +37,14 @@ main {
 .publications-section .article-list {
   margin-top: 0 !important;
 }
+
+.skill-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  margin: 0.1rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  background-color: #eef2f7;
+  color: #34495e;
+  white-space: nowrap;
+}
