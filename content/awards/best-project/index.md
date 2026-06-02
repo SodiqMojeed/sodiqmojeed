@@ -9,11 +9,15 @@ tags:
   - Network Science
   - Metascience
 
-# Optional: Link to the institution or project
-external_link: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
+links:
+- icon: link
+  icon_pack: fas
+  name: Featured News
+  url: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
+
 
 image:
-  #caption: 'Image credit: ](https://unsplash.com)'
+  #caption: ''
   focal_point: 'Center'
   preview_only: false
 ---
