@@ -34,5 +34,4 @@ tags:
 #content_meta:
 #  trending: true
 ---
-
-The Dashboard is available at [https://collatics.onrender.com/](https://collatics.onrender.com/). Kindly exercise a little patience while the applet launches.
+Excited to share that I developed an interactive Dashboard for exploring the collective attention dynamics of globally famous biographies on Wikipedia. The Dashboard is available at [https://collatics.onrender.com/](https://collatics.onrender.com/). Kindly exercise a little patience while the applet launches.
