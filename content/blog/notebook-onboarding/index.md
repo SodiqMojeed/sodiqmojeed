@@ -1,70 +1,36 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
-summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+title: Applied Data Science Lab
+summary: Excited to share that I’ve completed the Applied Data Science Lab at WorldQuant University.
+Through this program, I strengthened my skills in Python programming, data analysis, machine learning, statistical modeling, data visualization, interactive data application development, and working with real-world datasets to solve practical problems.
+Grateful for the learning experience and looking forward to applying these skills to research, analytics, and impactful projects in data science.
+
+date: 2026-05-13
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Jupyter
-  - Open Science
-  - Tutorials
+
+#DataScience #Python #MachineLearning #Analytics #WorldQuantUniversity
+  - Data Science
+  - Python Programming
+  - Machine Learning
+  - Data Wrangling
+  - Analytics
+  - WorldQuant University
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
-  icon:
-    name: "📔"
+  #icon:
+  #  name: "📔"
 image:
   caption: "Image credit: [HugoBlox](https://hugoblox.com)"
   focal_point: Center
   placement: 1
-content_meta:
-  trending: true
+#content_meta:
+#  trending: true
 ---
+I completed the [Applied Data Science Lab](https://www.wqu.edu/data-science-lab-apply?hsa_acc=1450481729&hsa_cam=21978146302&hsa_grp=171109972549&hsa_ad=799629270640&hsa_src=g&hsa_tgt=kwd-946482068807&hsa_kw=worldquant%20university%20data%20science&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21978146302&gbraid=0AAAAApC1CrWMv4a2bEb7maKUFnxlCW3Kx&gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJSziQzU_OOIPF5TMjEGe0R1E5Nn4Fpc5Ga8oQYBTIYM5zNmF4n8wUaArEfEALw_wcB&utm_term=worldquant%20university%20data%20science&utm_campaign=GA_Brand_SEA_Africa%2BAsia_WW&utm_source=adwords&utm_medium=ppc) from [WorldQuant University](https://www.wqu.edu/), where I worked through eight end-to-end, hands-on data science projects. In these projects, I worked with data from files, SQL and NoSQL databases, and APIs.
 
-As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
+I gained experience exploring and cleaning data, writing functions, and building ETL pipelines to prepare training datasets. I also developed machine learning models for both supervised and unsupervised learning problems and created visualizations to communicate data insights and model predictions clearly to non-technical audiences.
 
-Hugo Blox changes that. With the `{{</* notebook */>}}` shortcode, you can render your actual `.ipynb` files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.
+Across the projects, I applied techniques such as linear and logistic regression, decision trees, random forests, k-means clustering, time-series modeling (including ARMA and GARCH), A/B testing, and principal component analysis. I also practiced using tools and technologies such as Python, SQL, MongoDB, Plotly Dash, APIs, and the Linux command line.
 
-{{< toc mobile_only=true is_open=true >}}
-
-## Why publish notebooks?
-
-> [!TIP]
-> **Reproducible Research**: By publishing the actual notebook, you allow others to download and run your code, verifying your results and building upon your work.
-
-- **No more screenshots** – Render crisp code and vector plots directly from your source.
-- **Theme consistent** – Notebooks automatically adapt to your site's theme (including dark mode).
-- **Flexible sourcing** – Display notebooks from your `assets/` folder, page bundles, or even directly from a remote GitHub URL.
-- **Interactive** – Users can copy code blocks or download the full notebook to run locally.
-
-## Example: Data Science Workflow
-
-Below is a live example of a notebook rendered right here in this post. Notice how the markdown, code, and outputs (text, HTML, and JSON) are all preserved and styled.
-
-{{< notebook
-    src="hugoblox-onboarding.ipynb"
-    title="Launch Readiness Analysis"
-    show_metadata=true
-    line_numbers=true
-    dense=false
-    download_label="Download notebook"
-    show_outputs=true
->}}
-
-## How to add a notebook
-
-1. **Save your notebook.** Place your `.ipynb` file in `assets/notebooks/` (for global access) or inside a page bundle (like `content/blog/my-post/analysis.ipynb`).
-2. **Add the shortcode.** In any Markdown page, simply use:
-   `{{</* notebook src="analysis.ipynb" */>}}`
-3. **Customize.** You can hide code cells for non-technical audiences (`show_code=false`) or just show the output (`show_outputs=true`).
-
-> [!IMPORTANT]
-> Hugo Blox respects your privacy. Notebook rendering happens statically at build time—no third-party services required.
-
-## Next steps
-
-- **Try it out:** Drop one of your existing notebooks into this site and see how it looks.
-- **Link your papers:** Use the Embed shortcode to link your notebook to your latest arXiv preprint or GitHub repository.
-- **Get help:** Join the community on [Discord](https://discord.gg/z8wNYzb) or check the [documentation](https://docs.hugoblox.com).
-
-Happy researching! 🚀
+I earned a [Credly verifiable badge](https://www.credly.com/badges/029a8e38-ab95-4d12-85fa-c315c02d6158/linked_in?t=tezcig) after completing the Data Science Lab and passing each graded assignment.🚀
