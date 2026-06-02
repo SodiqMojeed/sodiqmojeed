@@ -17,4 +17,4 @@ tags:
 | 1 | Applied Data Science Lab | <span class="skill-tag">Python</span> <span class="skill-tag">SQL</span> <span class="skill-tag">Machine Learning</span> | [View Badge](https://example.com) |
 | 2 | Data Visualization | <span class="skill-tag">Plotly</span> <span class="skill-tag">Dash</span> <span class="skill-tag">Data Storytelling</span> | [View Badge](https://example.com) |
 
-#<!--more-->
+<!--more-->
