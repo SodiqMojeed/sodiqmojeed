@@ -1,5 +1,6 @@
 ---
 title: Completed Massive Open Online Courses (MOOCs)
+summary: My courses
 type: landing
 
 sections:
@@ -11,6 +12,9 @@ sections:
           - projects
         exclude_featured: false
     design:
-      view: card # Displays your sub-folders as clickable cards
+      view: article-grid
+      show_read_time: false
+      show_date: false
+      show_read_more: false
       columns: 3
 ---
