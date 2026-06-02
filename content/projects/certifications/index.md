@@ -30,9 +30,7 @@ Here are the certifications I have earned in this category. View each badge to r
 | 16 | Understanding Data Visualization | Data Visualization, Color and Shape | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/83eb9ba8ff71f4c742ce7cdff412f603d5ebbcc8) |
 | 17 | Introduction to Statistics in Python | Probability Distributionm Correlation and Experimental Design | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/923a92b803a75446822e46ebb616ef707f1ab463) |
 | 18 | Exploratory Data Analysis in SQL | Database, Structured and Unstructured Data, Timestamps | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/6c9314af2c7e7acd5e4bce023161bb33d548c6c8) |
-| 19 | Exploratory Data Analysis in Python | Data Cleaning and Imputation
- | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/0bd50a4e4fbd66d7a847cf73baa4f8d83cf9d8cb) |
-| 20 | Joining Data with pandas | DataFrames, Advanced Merging and Concatenating
- | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/37d962784e9fc9f93d768be8687af91f3ca83671) |
+| 19 | Exploratory Data Analysis in Python | Data Cleaning and Imputation | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/0bd50a4e4fbd66d7a847cf73baa4f8d83cf9d8cb) |
+| 20 | Joining Data with pandas | DataFrames, Advanced Merging and Concatenating | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/37d962784e9fc9f93d768be8687af91f3ca83671) |
 
 </div>
