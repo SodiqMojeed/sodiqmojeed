@@ -1,7 +1,7 @@
 ---
 title: "Master's Degree Mathematics Courses"
 summary: "A list of master’s degree math courses I studied and the grades I received in them."
-date: 2021-09-09
+date: 2023-08-12
 image:
   focal_point: "Center"
 ---
