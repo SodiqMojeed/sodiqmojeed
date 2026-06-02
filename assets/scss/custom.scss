@@ -48,3 +48,53 @@ main {
   color: #34495e;
   white-space: nowrap;
 }
+
+/* Professional Table Styling */
+.mooc-table-container {
+  overflow-x: auto;
+  margin: 2rem 0;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: 0.95rem;
+
+    th {
+      background-color: #f8fafc;
+      color: #475569;
+      text-transform: uppercase;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      padding: 12px 15px;
+      border-bottom: 2px solid #e2e8f0;
+    }
+
+    td {
+      padding: 12px 15px;
+      border-bottom: 1px solid #e2e8f0;
+      vertical-align: middle;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover {
+      background-color: #f1f5f9;
+    }
+    
+    /* Style the Badge links */
+    a {
+      color: #3b82f6;
+      text-decoration: none;
+      font-weight: 600;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
