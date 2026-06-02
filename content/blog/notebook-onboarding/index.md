@@ -1,6 +1,6 @@
 ---
 title: Applied Data Science Lab
-summary: Excited to share that I’ve completed the Applied Data Science Lab at WorldQuant University.
+summary: Excited to share that I have completed the Applied Data Science Lab at WorldQuant University.
 Through this program, I strengthened my skills in Python programming, data analysis, machine learning, statistical modeling, data visualization, interactive data application development, and working with real-world datasets to solve practical problems.
 Grateful for the learning experience and looking forward to applying these skills to research, analytics, and impactful projects in data science.
 
