@@ -113,7 +113,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      #view: card
+      view: article-grid
       columns: 2 
       # Reduce spacing
       spacing:
