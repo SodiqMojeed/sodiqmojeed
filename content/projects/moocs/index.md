@@ -1,18 +1,13 @@
 ---
-title: MOOCs
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
-tags:
-  - Python Courses
-  - RStudio
-  - Data Analytics
-  - Visualization
-  - SQL
+title: "MOOC Certifications"
+summary: "A list of completed online courses and earned badges."
+date: 2026-06-02
+image:
+  focal_point: "Center"
 ---
 
-I am an avid learner. Here are some of the online courses I have worked on over the years.
+Here are the certifications I have earned in this category:
+
 <div class="mooc-table-container">
 | S/N | Course Name | Skills Acquired | Digital Badge |
 |:---:|:---|:---|:---:|
