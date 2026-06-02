@@ -12,10 +12,6 @@ tags:
   - Data Wrangling
   - Analytics
   - WorldQuant University
-#cover:
-  # image: cover.jpg  # Auto-detected from cover image in this folder
-  #icon:
-  #  name: "📔"
 image:
   caption: "Verify badge on [Credly]([https://hugoblox.com](https://www.credly.com/badges/029a8e38-ab95-4d12-85fa-c315c02d6158/public_url))"
   focal_point: Center
