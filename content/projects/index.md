@@ -1,7 +1,7 @@
 ---
 title: 'MOOCs'
 date: 2024-05-19
-type: landing
+---
 
 # Page sections
 sections:
@@ -12,11 +12,12 @@ sections:
       filters:
         folders:
           - projects
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
-      show_date: false
-      show_read_time: false
-      show_read_more: false
----
+    
+I am an avid learner. Here are some of the online courses I have worked on over the years.
+<div class="mooc-table-container">
+| S/N | Course Name | Skills Acquired | Digital Badge |
+|:---:|:---|:---|:---:|
+| 01 | **Network Science** | Graph Theory, Centrality, Community Detection | [🎓 View](https://example.com) |
+| 02 | **Python for Data Science** | Pandas, Numpy, Data Wrangling | [📜 View](https://example.com) |
+| 03 | **Advanced Modeling** | Complex Systems, Simulation, Dynamics | [🏅 View](https://example.com) |
+</div>
