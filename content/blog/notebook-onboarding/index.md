@@ -6,8 +6,6 @@ date: 2026-05-13
 authors:
   - me
 tags:
-
-#DataScience #Python #MachineLearning #Analytics #WorldQuantUniversity
   - Data Science
   - Python Programming
   - Machine Learning
