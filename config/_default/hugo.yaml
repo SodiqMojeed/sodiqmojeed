@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Sodiq Mojeed - Portfolio'
 # Website URL
-baseURL: 'https://sodiqmojeed.github.io/sodiqmojeed/'
+baseURL: 'https://www.mojeedsodiq.com/'
 
 ############################
 ## LANGUAGE
