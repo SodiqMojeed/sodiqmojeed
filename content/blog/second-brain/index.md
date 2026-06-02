@@ -5,6 +5,7 @@ date: 2026-02-01
 authors:
   - me
 tags:
+  - Network Science
   - Network Visualization
   - Interactive Applet
 image:
