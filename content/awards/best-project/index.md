@@ -13,7 +13,7 @@ tags:
 external_link: https://groupalgorithm.streamlit.app/
 
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
   focal_point: 'Center'
   preview_only: false
 ---
