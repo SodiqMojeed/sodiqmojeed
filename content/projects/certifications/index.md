@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and AI MOOCs Badges"
-summary: "A list of completed online **Machine Learning and AI** courses and statements of accomplishments."
+summary: "A list of completed online Machine Learning and AI courses and statements of accomplishments."
 date: 2026-05-30
 image:
   focal_point: "Center"
