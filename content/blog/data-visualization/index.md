@@ -5,6 +5,7 @@ date: 2025-12-30
 authors:
   - me
 tags:
+  - Graph Theory
   - Rooted Trees
   - Matula Numbers
   - Tree Statistics
