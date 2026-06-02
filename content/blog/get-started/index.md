@@ -1,7 +1,7 @@
 ---
 title: Collective Attention Dashboard
 summary: Excited to share that I developed an interactive Dashboard for exploring the collective attention dynamics of globally famous biographies on Wikipedia.
-date: 2023-10-27
+date: 2026-05-11
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
