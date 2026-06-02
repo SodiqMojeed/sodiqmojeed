@@ -1,5 +1,5 @@
 ---
-title: "Increasing the Benefits of Formal Interactions at Scientific Conferences."
+title: Increasing the Benefits of Formal Interactions at Scientific Conferences.
 date: '2024-02-17T00:00:00Z'
 
 event_name: Critical Transitions in Socio-ecological Systems Workshop
