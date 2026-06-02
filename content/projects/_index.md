@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Project Categories
+      title: Completed Massive Open Online Courses (MOOCs) Categories
       filters:
         folders:
           - projects
