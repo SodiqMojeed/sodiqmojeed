@@ -45,9 +45,10 @@ sections:
     class: research
     content:
       title: '📚 My Research Interests'
-      #subtitle: ''
       text: |-
+        <div class="text-sm">
         I am interested in the theory and applications of network science, particularly in modeling and analyzing social and temporal networks, hypergraphs, contagion processes, and the         dynamics of networked systems. I also develop genetic algorithms that optimize structured interactions at conferences. A web application powered by my algorithm is available             [here](https://groupalgorithm.streamlit.app/). Previously, I analyzed food-web, transportation, social, and collaboration networks. I also have experience in modeling and                visualizing multiplex and higher-order networks. In addition, I have a publication on a more theoretical work in graph theory, where we present applications of Matula numbers in         chemistry and analytical combinatorics; it’s available for download [here](https://www.intechopen.com/online-first/1193404).
+        </div>     
     design:
       columns: '1'
       css_class: "-mt+24"
