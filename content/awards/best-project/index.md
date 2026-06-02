@@ -10,10 +10,10 @@ tags:
   - Metascience
 
 # Optional: Link to the institution or project
-external_link: https://groupalgorithm.streamlit.app/
+external_link: https://eeb.princeton.edu/news/emma-zajdelas-group-mentees-receive-santa-fe-institute-prize
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  #caption: 'Image credit: ](https://unsplash.com)'
   focal_point: 'Center'
   preview_only: false
 ---
