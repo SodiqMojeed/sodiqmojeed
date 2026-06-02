@@ -19,7 +19,7 @@ cover:
   #icon:
   #  name: "📔"
 image:
-  caption: "Image credit: [HugoBlox](https://hugoblox.com)"
+  caption: "Verify badge on [Credly]([https://hugoblox.com](https://www.credly.com/badges/029a8e38-ab95-4d12-85fa-c315c02d6158/public_url))"
   focal_point: Center
   placement: 1
 #content_meta:
