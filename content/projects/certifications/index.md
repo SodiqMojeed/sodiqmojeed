@@ -1,7 +1,7 @@
 ---
-title: "MOOC Certifications"
-summary: "A list of completed online courses and earned badges."
-date: 2024-05-30
+title: "Data Science MOOCs Badges"
+summary: "A list of completed online Data Science courses and statements of accomplishments."
+date: 2026-05-30
 image:
   focal_point: "Center"
 ---
