@@ -19,7 +19,7 @@ bio: |
   My research interests lie at the intersection of network science, complex systems, computational social science, and graph theory, with a particular focus on 
   how collective behavior, interactions, and emergent phenomena evolve in complex networks.
 affiliations:
-   - name: WorldQuant University \\ Alumnus of Santa Fe Institute, AIMS Ghana & Lagos State University
+   - name: WorldQuant University (Current) | Alumnus: Santa Fe Institute, AIMS Ghana & Lagos State University
 #    url: https://ai.meta.com/
 
 links:
@@ -39,10 +39,9 @@ links:
 
 interests:
   - Network Science
-  - Graph Theory
-  - Combinatorial Optimization
-  - Algorithms
+  - Science of Science
   - Complex Systems
+  - Graph Theory
 
 education:
   - degree: Graduate Certificate in Applied AI Fundamentals
