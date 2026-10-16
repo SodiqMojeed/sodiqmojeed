@@ -46,8 +46,12 @@ sections:
     content:
       title: 'Research Interests in Detail'
       text: |-
-        I am interested in the theory and applications of network science, particularly in modeling and analyzing social and temporal networks, hypergraphs, and the
-        dynamics of networked systems. I also develop algorithms that optimize structured interactions at conferences. A web application powered by my algorithm is available                     [here](https://groupalgorithm.streamlit.app/). Previously, I analyzed food-web, transportation, social, and collaboration networks. I also have experience in modeling and                visualizing multiplex and higher-order networks. In addition, I have a publication on a more theoretical work in graph theory, where we present applications of Matula numbers in         chemistry and analytical combinatorics; it’s available for download [here](https://www.intechopen.com/online-first/1193404).
+        I am an early-career researcher with an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, and a First-Class Honours degree from Lagos State University. My research experience includes serving as a Research Assistant at the Santa Fe Institute, where I developed a network-based algorithm to foster novel interdisciplinary collaboration among culturally diverse researchers interacting in digital and offline communities.
+
+My research interests focus on scientific collaboration, the emergence and diffusion of novelty, and dynamical processes on (higher-order) networks. I am particularly interested in how network structure, group interactions, and evolving connections shape information spreading, social dynamics, and the resilience of complex systems. I use mathematical modeling, network analysis, statistical methods, and computational simulations to investigate these phenomena.
+
+This portfolio showcases my research projects, scientific visualizations, advanced and professional training, and awards I have received. It documents selected research work and provides a space for other researchers to learn about my work and interests.
+
     design:
       columns: '1'
       css_class: "text-sm -mt+24"
