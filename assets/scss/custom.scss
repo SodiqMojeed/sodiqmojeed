@@ -26,15 +26,20 @@ main {
   width: 100% !important;
 }
 
-/* Keep the smaller font */
+/* About block: compact line spacing and smaller font */
 .research .prose {
   font-size: 15px !important;
-  line-height: 1.65 !important;
+  line-height: 1.0 !important;
+  max-width: none !important;
+  width: 100% !important;
 }
 
 .research .prose p {
   font-size: inherit !important;
-  line-height: inherit !important;
+  line-height: 1.0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.6em !important;
+  max-width: none !important;
 }
 
 .small-text {
