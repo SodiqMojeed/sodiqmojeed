@@ -20,12 +20,13 @@ main {
   padding-top: 0 !important;
 }
 
-/* Widen the About text and reduce its font size */
-.research .max-w-prose {
-  max-width: 900px !important;
+/* Widen the About text column */
+.research .prose.max-w-prose {
+  max-width: 100% !important;
   width: 100% !important;
 }
 
+/* Keep the smaller font */
 .research .prose {
   font-size: 15px !important;
   line-height: 1.65 !important;
