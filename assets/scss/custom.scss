@@ -20,26 +20,17 @@ main {
   padding-top: 0 !important;
 }
 
-/* Widen the About text column */
-.research .prose.max-w-prose {
-  max-width: 100% !important;
+/* Widen the About block */
+.research.flex.flex-col {
   width: 100% !important;
+  max-width: 1100px !important;
 }
 
-/* About block: compact line spacing and smaller font */
-.research .prose {
+.research.flex.flex-col > .prose {
+  width: 100% !important;
+  max-width: none !important;
   font-size: 15px !important;
-  line-height: 1.0 !important;
-  max-width: none !important;
-  width: 100% !important;
-}
-
-.research .prose p {
-  font-size: inherit !important;
-  line-height: 1.0 !important;
-  margin-top: 0 !important;
-  margin-bottom: 0.6em !important;
-  max-width: none !important;
+  line-height: 1 !important;
 }
 
 .small-text {
