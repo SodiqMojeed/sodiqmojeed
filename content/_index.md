@@ -44,7 +44,7 @@ sections:
   - block: markdown
     class: research
     content:
-      title: 'Research Interests in Detail'
+      title: 'About'
       text: |-
         I am an early-career researcher with an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, and a First-Class Honours degree from            Lagos State University. My research experience includes serving as a Research Assistant at the Santa Fe Institute, where I developed a network-based algorithm to foster novel            interdisciplinary collaboration among culturally diverse researchers interacting in digital and offline communities. \n
         My research interests focus on scientific collaboration, the emergence and diffusion of novelty, and dynamical processes on (higher-order) networks. I am particularly interested         in how network structure, group interactions, and evolving connections shape information spreading, social dynamics, and the resilience of complex systems. I use mathematical            modeling, network analysis, statistical methods, and computational simulations to investigate these phenomena. \n
