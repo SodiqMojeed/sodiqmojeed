@@ -72,12 +72,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks and Events
       filters:
         folders:
           - events
     design:
       view: card
+      columns: '2'
       css_class: "-mt-5"
   - block: collection
     id: news
