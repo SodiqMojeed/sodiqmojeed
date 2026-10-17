@@ -77,9 +77,13 @@ sections:
         folders:
           - events
     design:
-      view: card
-      columns: '2'
-      css_class: "-mt-5"
+      # Choose a layout view
+      #view: card
+      view: article-grid
+      columns: 2 
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: news
     content:
