@@ -1,36 +1,27 @@
 ---
-title: 'A Network-Based Intervention for Optimizing Interactions among Early-Career Scientists.'
-date: '2026-07-17T00:00:00Z'
-
+title: A Network-Based Intervention for Optimizing Interactions among Early-Career Scientists.
+date: 2026-07-17T00:00:00Z
 event_name: Critical Transitions in Socio-ecological Systems Workshop
-#event_url: 'https://pcts.princeton.edu/events/2025/critical-transitions-socio-ecological-systems'
-
 location: Online & In-Person
-address: 
+address:
   street: CIMPA (International Centre for Pure and Applied Mathematics)
   city: University of Abomey-Calavi
-  #region: CA
-  #postcode: '94305'
   country: Benin
-
-summary: I attended the CIMPA School on Topological and Extremal Properties of Combinatorial Structures and gave a flash talk on "A Network-Based Intervention for Optimizing Interactions among Early-Career Scientists". 
+summary: I attended the CIMPA School on Topological and Extremal Properties of Combinatorial Structures and gave a flash talk on "A Network-Based Intervention for Optimizing Interactions among Early-Career Scientists".
 authors:
   - me
-
 tags:
   - CIMPA School
   - Presentation
   - Graph Theory
   - Scientific Collaboration
-
 featured: true
-
 image:
-  caption: 'CIMPA School July 2026'
+  caption: CIMPA School July 2026
   focal_point: Right
-
-# projects: []
+event_start: 2026-07-17T00:00:00Z
 ---
+
 I attended a two-week CIMPA School on Topological and Extremal Properties of Combinatorial Structures at the University of Abomey-Calavi in July 2026, where I broadened my knowledge of topics in graph theory and combinatorics, including extremal problems, graph algorithms, and spectral graph theory. I also gave a flash talk on my research titled "A Network-Based Intervention for Optimizing Interactions among Early-Career Scientists".
 
 Abstract: Past research has emphasized the importance of team diversity for innovation
